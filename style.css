@@ -1,46 +1,129 @@
+.white-border {
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
+  .silver-border {
+    border-color: silver;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
+  .black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
+  .pink-border {
+    border-color: pink;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
+    .orange-border {
+    border-color: orange;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
+    .turqoise-border {
+    border-color: rgb(81, 176, 179);
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
 
 
 head{
-	font-family: Helvetica, serif
+	font-family: Helvetica, serif;
 	font-size: 200px;
 	font-style: bold;
 
 }
 
 body{
-	background-color: lightblue;
-	color: white;
-
+	background-color: black;
 }
 
-h1{
-	color: white:
-	font-family: Helvetica, Arial
-	font-size 60px;
-	font-style: italic;
+.big-image{
+    width: 800px;
 
-}
-a
-	../*color:black;*/
-}
+ 
+ }
 
-title{
-	font-family: Helvetica, serif
-	font-size: 80px;
-	font-style: bold;
-}
-
-large-image{
+.small-image{
     width: 500px;
 
  }
 
-}
-main-title{
+main-text{
    font-color: white;
-   font-size: 300px;
+   font-size: 100px;
    font-family: Helvetica, serif;
    font-style: bold;
 
+ }
+
+.titleee {
+   font-color: white;
+   font-size: 20px;
+   font-family: Helvetica, serif;
+   font-style: italic;
+
+ }
+
+.abc{
+   font-color: white;
+   font-size: 10px;
+   font-family: Helvetica, serif;
+   font-style: italic;
+
+  }
+.titlepage{
+   color: white;
+   font-size: 40px;
+   font-family: Verdana, sans-serif;
+
+  }
+
+ .page-one{
+   color: white;
+   font-size: 25px;
+   font-family: Verdana, sans-serif;
+
+  }
+ .page-two{
+   color: orange;
+   font-size: 25px;
+   font-family: Verdana, sans-serif;
+
+  }
+
+  .page-three{
+   color: pink;
+   font-size: 25px;
+   font-family: Verdana, sans-serif;
+
+  }
+
+  .page-four{
+   color: rgb(81, 176, 179);
+   font-size: 40px;
+   font-style: bold;
+   font-family: Verdana, sans-serif;
+
+  }
+
+  .page-five{
+   color: white;
+   font-size: 50px;
+   font-family: Verdana, sans-serif;
 
   }
