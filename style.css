@@ -1,5 +1,12 @@
 
 
+head{
+	font-family: Helvetica, serif
+	font-size: 200px;
+	font-style: bold;
+
+}
+
 body{
 	background-color: lightblue;
 	color: white;
@@ -19,17 +26,17 @@ a
 
 title{
 	font-family: Helvetica, serif
-	font-size: 100px;
+	font-size: 80px;
 	font-style: bold;
 }
 
-.larger-image{
-    width: 200px;
+large-image{
+    width: 500px;
 
  }
 
 }
-.main-title{
+main-title{
    font-color: white;
    font-size: 300px;
    font-family: Helvetica, serif;
