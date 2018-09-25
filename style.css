@@ -8,7 +8,7 @@ body{
 
 h1{
 	color: :white:
-	font-family: Helvetica, Arial, sans-serif
+	font-family: Helvetica, Arial
 	font-size 60px;
 	font-style: italic;
 
@@ -25,5 +25,13 @@ title{
 
 .larger-image{
     width: 200px;
+
+ }
+
+}
+.main-title{
+   font-size: 50px;
+   font-family: Helvetica;
+
 
   }
