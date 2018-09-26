@@ -5,6 +5,13 @@
     padding: 40px
   }
 
+  .mediumpurple-border {
+    border-color: mediumpurple;
+    border-width: 5px;
+    border-style: solid;
+    padding: 40px
+  }
+
   .silver-border {
     border-color: silver;
     border-width: 5px;
@@ -53,15 +60,26 @@ body{
 }
 
 .big-image{
-    width: 800px;
-
- 
+    width: 35%;
  }
+
+.big-image-box{
+  text-align: center;
+}
 
 .small-image{
-    width: 500px;
+    width: 20%;
 
  }
+
+.right-container{
+  text-align: right;
+}
+
+.center-container{
+  text-align: center;
+}
+
 
 main-text{
    font-color: white;
@@ -71,7 +89,7 @@ main-text{
 
  }
 
-.titleee {
+.titleee{
    font-color: white;
    font-size: 20px;
    font-family: Helvetica, serif;
@@ -94,7 +112,7 @@ main-text{
   }
 
  .page-one{
-   color: white;
+   color: mediumpurple;
    font-size: 25px;
    font-family: Verdana, sans-serif;
 
